@@ -1,0 +1,1 @@
+# kazeshiny.github.io
