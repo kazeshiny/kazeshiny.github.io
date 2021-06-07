@@ -43,8 +43,8 @@ social:
     - https://twitter.com/kazeshiny      # change to your twitter homepage
     - https://github.com/kazeshiny       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/kazeshiny
+    - https://www.linkedin.com/in/kezeshiny
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
